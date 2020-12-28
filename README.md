@@ -8,7 +8,8 @@ Install: *sudo npm install -g pm2*
 
 Run PM2 on startup: *pm2 startup*
 
-Register shell script with PM2: *pm2 start <scriptname>.sh*
+Register shell script with PM2: *pm2 start myscript.sh*
+  
 Save PM2 scripts across reboots: *pm2 save*
 
 Usefull PM2 commands:
