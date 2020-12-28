@@ -2,7 +2,7 @@
 Utility scripts for Raspberry Pi projects, such as network watchdog, autostart apps, etc.
 
 ## PM2
-Make sure that the shell scripts are executable (chmod +x myscript.sh)
+Make sure that the shell scripts are executable (chmod +x myscript.sh or chmod 775 myscript.sh)
 
 Install: *sudo npm install -g pm2*
 
